@@ -46,6 +46,13 @@ This dashboard allows users to understand how teams and players have performed o
 
 ---
 
+---
+
+## 🖼️ Dashboard Preview
+![NBA Dashboard](https://github.com/technicalabinesh/NBA-Dashboard-Project/blob/main/NBA-Dashboard-Project.png)
+
+---
+
 ## 🔍 Interactive Filters & Slicers
 - Player Name Filter for player-specific analysis
 - Season Filter (2003–2020) for time-based insights
